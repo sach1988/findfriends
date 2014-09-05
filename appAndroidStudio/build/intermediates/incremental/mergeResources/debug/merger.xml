@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res" >
+            <file
+                name="icon"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_second"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\layout\activity_second.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_second"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\layout\fragment_second.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="second"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\menu\second.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values\color.xml"
+                qualifiers="" >
+                <color name="actionbar_text" >#ffffD700
+                </color>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values\pref_ strings.xml"
+                qualifiers="" >
+                <string
+                    name="pref_metric_key"
+                    translatable="false" >metric
+                </string>
+                <string
+                    name="pref_Location_key"
+                    translatable="false" >location
+                </string>
+                <string name="pref_header_general" >General
+                </string>
+                <string
+                    name="pref_metric_default"
+                    translatable="false" >1
+                </string>
+
+                <string-array name="pref_metric_list_values" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="pref_location_list_titles" >
+                    <item>
+Mountain View
+                    </item>
+                    <item>
+Bogota
+                    </item>
+                    <item>
+Fusa
+                    </item>
+                </string-array>
+                <string-array name="pref_location_list_values" >
+                    <item>
+5375480
+                    </item>
+                    <item>
+3688689
+                    </item>
+                    <item>
+3682274
+                    </item>
+                </string-array>
+
+                <string name="pref_metric_label" >Metrica
+                </string>
+
+                <string-array name="pref_metric_list_titles" >
+                    <item>
+metric
+                    </item>
+                    <item>
+imperial
+                    </item>
+                </string-array>
+
+                <string name="pref_location_label" >Ubicación
+                </string>
+                <string
+                    name="pref_location_default"
+                    translatable="false" >3682274
+                </string>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hola Mundo Fusa Bella!
+                </string>
+                <string name="msg_activity_second" >Estas en la nueva actividad.\nRevisa el código de la aplicación para entenderlo mejor.
+                </string>
+                <string
+                    name="action_settings"
+                    translatable="false" >Settings
+                </string>
+                <string name="app_name" >Zona Amigos
+                </string>
+                <string name="secondActivity" >Pasar a Segunda Actividad
+                </string>
+                <string name="conf_settings" >Configuracion
+                </string>
+                <string name="title_activity_second" >Zona Dos
+                </string>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                    <!-- <item name="android:windowNoTitle">true</item>  Hides the Action Bar -->
+                    <!-- <item name="android:windowFullscreen">true</item>  Hides the status bar -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values\themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="MyActionBar"
+                    parent="@style/Widget.AppCompat.ActionBar" >
+
+                    <!-- Support library compatibility -->
+                    <item name="titleTextStyle">
+@style/MyActionBarTitleText
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBarTitleText"
+                    parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" >
+
+                    <!-- http://stackoverflow.com/questions/19691530/valid-values-for-androidfontfamily-and-what-they-map-to -->
+                    <!--
+             		 android:fontfamily before HONEYCOMB
+						http://blog.innovattic.com/integrating-fonts-in-android/ 
+						<item name="android:fontfamily">sans-serif-light</item>
+                    -->
+                    <item name="android:textColor">
+@color/actionbar_text
+                    </item>
+                    <item name="android:textStyle">
+bold|italic
+                    </item>
+                </style>
+
+                <style
+                    name="MyActionBarTabText"
+                    parent="@style/Widget.AppCompat.ActionBar.TabText" >
+                    <item name="android:textColor">
+@color/actionbar_text
+                    </item>
+                </style>
+
+                <style
+                    name="CustomActionBarTheme"
+                    parent="@style/Theme.AppCompat" >
+
+                    <!-- Support library compatibility -->
+                    <item name="actionBarStyle">
+@style/MyActionBar
+                    </item>
+                    <item name="actionBarTabTextStyle">
+@style/MyActionBarTabText
+                    </item>
+                    <item name="actionMenuTextColor">
+@color/actionbar_text
+                    </item>
+                    <!-- Adding overlay -->
+                    <!-- <item name="windowActionBarOverlay">true</item> -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values-fr\strings.xml"
+                qualifiers="fr" >
+                <string name="title_activity_second" >Zone Deux
+                </string>
+                <string name="secondActivity" >Aller à la deuxième activité
+                </string>
+                <string name="conf_settings" >Configuration
+                </string>
+                <string name="hello_world" >Bonjour tout le monde Fusa Bella!
+                </string>
+                <string name="msg_activity_second" >Vous êtes dans la nouvelle activité.\n\nExplorez le code pour mieux le comprendre.
+                </string>
+                <string name="app_name" >Zone des amis
+                </string>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="" >
+                </style>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="pref_general"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\xml\pref_general.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="pref_headers"
+                path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\res\xml\pref_headers.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\build\generated\res\rs\debug" />
+        <source path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\RC\Documents\GitHub\findfriends\appAndroidStudio\build-types\debug\res" />
+    </dataSet>
+
+</merger>
