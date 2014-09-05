@@ -4,6 +4,6 @@
     <!-- From: file:/C:/Users/RC/Documents/GitHub/findfriends/appAndroidStudio/res/values-v11/styles.xml -->
     <eat-comment />
 
-    <style name="AppBaseTheme" parent=""></style>
+    <style name="AppBaseTheme" parent="Theme.AppCompat"></style>
 
 </resources>

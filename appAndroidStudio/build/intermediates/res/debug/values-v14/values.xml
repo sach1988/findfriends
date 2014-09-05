@@ -4,7 +4,7 @@
     <!-- From: file:/C:/Users/RC/Documents/GitHub/findfriends/appAndroidStudio/res/values-v14/styles.xml -->
     <eat-comment />
 
-    <style name="AppBaseTheme" parent="">
+    <style name="AppBaseTheme" parent="Theme.AppCompat">
         <!-- API 14 theme customizations can go here. -->
     </style>
 

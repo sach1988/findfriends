@@ -175,7 +175,7 @@ imperial
 
                 <style
                     name="AppBaseTheme"
-                    parent="" >
+                    parent="Theme.AppCompat" >
 
                     <!--
             Theme customizations available in newer API levels can go in
@@ -264,7 +264,7 @@ bold|italic
 
                 <style
                     name="AppBaseTheme"
-                    parent="" >
+                    parent="Theme.AppCompat" >
                 </style>
             </file>
             <file
@@ -273,7 +273,7 @@ bold|italic
 
                 <style
                     name="AppBaseTheme"
-                    parent="" >
+                    parent="Theme.AppCompat" >
 
                     <!-- API 14 theme customizations can go here. -->
                 </style>

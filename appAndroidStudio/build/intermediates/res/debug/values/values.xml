@@ -57,7 +57,7 @@
     <!-- From: file:/C:/Users/RC/Documents/GitHub/findfriends/appAndroidStudio/res/values/styles.xml -->
     <eat-comment />
 
-    <style name="AppBaseTheme" parent="">
+    <style name="AppBaseTheme" parent="Theme.AppCompat">
         <!--
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
